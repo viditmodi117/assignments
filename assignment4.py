@@ -242,8 +242,8 @@ class Student(Person):
         print("Graduation Year: ", self.gradYear)
 
 # person object
-per = Person("Vidit", "Modi", "raj") 
+per = Person("Grishma", "Sapariya", "Karjan") 
 per.display()
 print("===========================================")
-std = Student("potter", "harry", "om", 21, 2001)
+std = Student("Rutik", "Sapariya", "Karjan", 21, 2001)
 std.display()"""
